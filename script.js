@@ -1,7 +1,7 @@
 function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
-N:García Gómez;Juan;Martha;Lucía;
+N:García Gómez;Martha;Lucía;;
 FN:Martha Lucía García Gómez
 TEL:+57 3174289177
 END:VCARD`;
